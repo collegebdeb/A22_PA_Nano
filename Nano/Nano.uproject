@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{F808CE75-412A-8B80-4946-12BD17F01A4D}",
+	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,10 +13,6 @@
 		},
 		{
 			"Name": "ApexDestruction",
-			"Enabled": true
-		},
-		{
-			"Name": "HoudiniEngine",
 			"Enabled": true
 		}
 	]

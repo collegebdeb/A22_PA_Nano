@@ -18,10 +18,6 @@
 		{
 			"Name": "FieldSystemPlugin",
 			"Enabled": true
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
 		}
 	]
 }
